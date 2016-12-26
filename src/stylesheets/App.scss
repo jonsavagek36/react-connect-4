@@ -1,0 +1,46 @@
+/* YOUR STYLING HERE */
+
+body {
+  background-color: $light-blue;
+  color: #000000;
+  font-family: serif;
+}
+
+h5 {
+  margin: 5px;
+}
+
+.board {
+  width: 400px;
+  height: 400px;
+  top: 40px;
+  left: 40px;
+  position: relative;
+}
+
+.square {
+  height: 40px;
+  width: 40px;
+  background-color: #ffffff;
+  border: 1px solid #000000;
+  position: absolute;
+  cursor: pointer;
+}
+
+.redsquare {
+  height: 40px;
+  width: 40px;
+  background-color: red;
+  border: 1px solid #000000;
+  position: absolute;
+  cursor: pointer;
+}
+
+.bluesquare {
+  height: 40px;
+  width: 40px;
+  background-color: blue;
+  border: 1px solid #000000;
+  position: absolute;
+  cursor: pointer;
+}
