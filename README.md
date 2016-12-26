@@ -8,3 +8,5 @@ Future plans:
 
 Animate the blocks falling down into place instead of simply appearing.
 Create a simple computer AI to play as Player 2.
+
+Sometime soon, I'll get to refactoring the code, convert as much as I can to being stateless, etc.
