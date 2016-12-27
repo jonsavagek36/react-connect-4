@@ -4,6 +4,9 @@ A simple React/JS Connect-4 browser game.
 All of the main JavaScript is in the src/components directory.
 All of the game logic is in the GameBoard class.
 
+Bugs:
+Trying to fill any of the top squares produces an error, must fix that at some point.
+
 Future plans:
 
 Animate the blocks falling down into place instead of simply appearing.
