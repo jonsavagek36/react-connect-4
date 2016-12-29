@@ -5,7 +5,7 @@ All of the main JavaScript is in the src/components directory.
 All of the game logic is in the GameBoard class.
 
 Bugs:
-Trying to fill any of the top squares produces an error, must fix that at some point.
+Trying to fill any of the top squares produces an error.  When one player wins the game, the starting player always reverts to Player 2 instead of Player 1.
 
 Future plans:
 
